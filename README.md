@@ -56,4 +56,4 @@ We welcome contributions from the community to improve this project. If you enco
 
 
 We hope you find the Arduino-Based Radar System project useful. Happy experimenting with your radar system, and feel free to reach out if you have any questions or need further assistance!
-contact-124006059@sastra.ac.in
+contact-manojrd00@gmail.com
